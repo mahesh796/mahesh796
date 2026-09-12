@@ -57,7 +57,7 @@ I work at the intersection of **AI engineering + business impact**, designing sy
 ### 💻 Earlier Experience
 
 * **Technical Support Engineer** – automated workflows (30% efficiency gain)
-* **Web Developer** – built chatbot-based customer engagement systems
+* **Associate software engineer** – built chatbot-based customer engagement systems
 
 ---
 
